@@ -163,6 +163,7 @@ The model suggests which products merit investigation. It does not establish act
 | [ABC Analysis CSV](data/processed/abc_analysis.csv) | SKU-level classification results |
 | [Inventory Planning CSV](data/processed/inventory_planning.csv) | Simulated inventory planning results |
 | [Dashboard Screenshots](reports/) | Power BI visualizations |
+| [Power BI Report](powerbi/Smart_Inventory_Control_Tower.pbix) | Interactive Power BI Desktop report |
 
 ## 9. How to Reproduce the Analysis
 
