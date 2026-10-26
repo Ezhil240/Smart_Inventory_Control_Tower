@@ -159,7 +159,7 @@ The model suggests which products merit investigation. It does not establish act
 
 | File | Description |
 |---|---|
-| [Python Analysis Notebook](notebooks/01_data_exploration.ipynb.ipynb) | Reproducible Python analysis |
+| [Python Analysis Notebook](notebooks/01_data_exploration.ipynb) | Reproducible Python analysis |
 | [ABC Analysis CSV](data/processed/abc_analysis.csv) | SKU-level classification results |
 | [Inventory Planning CSV](data/processed/inventory_planning.csv) | Simulated inventory planning results |
 | [Dashboard Screenshots](reports/) | Power BI visualizations |
